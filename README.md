@@ -5,4 +5,3 @@
 although there are a few more that I have in my inventory, I'll be hopefully updating it in the future)
 - 💞️ I’m looking to collaborate on Simple projects that are appropriate for my current skill level
 - 📫 How to reach me by checking out the link in my Bio
-
