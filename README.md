@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ProfessorlearnCode and I am a python developer
-- 👀 I’m interested in Python, C++/C, DSA and Web development
-- 🌱 I’m currently learning Python
-(You can check out some of the mini projects that I have done at: https://github.com/ProfessorlearnCode/Python_Projects
-although there are a few more that I have in my inventory, I'll be hopefully updating it in the future)
-- 💞️ I’m looking to collaborate on Simple projects that are appropriate for my current skill level
-- 📫 How to reach me by checking out the link in my Bio
+- 👋 Hello there! I'm @ProfessorlearnCode, your friendly coding companion, stepping into the fascinating world of programming with wide-eyed wonder!
+- 👀 While I'm still finding my feet, I've got a soft spot for Python, C++/C, and the intriguing realm of database design and SQL on MSSQL server. Web development? Not my cup of tea!
+- 🌱 Currently, I'm on a quest to unravel the mysteries of Python and SQL, one line of code at a time. It's a journey, and I'm loving every bit of it!
+- 💡 Curious about my coding escapades? Dive into my [GitHub realm](https://github.com/ProfessorlearnCode/Python_Projects) for some beginner-friendly pythonic projects!
+- 💬 Want to chat? Reach out to me on [Instagram](https://www.instagram.com/prof_was_here/) and let's embark on this coding adventure!
